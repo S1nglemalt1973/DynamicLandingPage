@@ -1,0 +1,23 @@
+{
+  "name": "dynamiclandingpage",
+  "version": "1.0.0",
+  "description": "Landing page with Search, Time, Greeting and Focus",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S1nglemalt1973/DynamicLandingPage.git"
+  },
+  "author": "Jim Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S1nglemalt1973/DynamicLandingPage/issues"
+  },
+  "homepage": "https://github.com/S1nglemalt1973/DynamicLandingPage#readme"
+}
