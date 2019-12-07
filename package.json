@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d DynamicLandingPage"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,8 @@
   },
   "author": "Jim Wood",
   "license": "ISC",
+  "homepage": "https//S1nglemalt1973.github.io/DynamicLandingPage",
   "bugs": {
     "url": "https://github.com/S1nglemalt1973/DynamicLandingPage/issues"
-  },
-  "homepage": "https://github.com/S1nglemalt1973/DynamicLandingPage#readme"
+  }
 }
